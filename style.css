@@ -1,0 +1,23 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background-color : skyblue;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 2% 2%;
+}
+
+/* .hr {
+  width:75%;
+  text-align:left;
+  margin-left:0;
+} */
+
+.p1, .p2 {
+  border-style: solid;
+  border-color: rgb(27, 27, 69);
+  border-width: 50%;
+  border-radius: 10px;
+  padding: 1%;
+  margin-bottom: 10px;
+  text-align:left;
+}
